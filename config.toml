@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Vaibhav Pratap Singh"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,26 +52,26 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Vaibhav Pratap Singh"
+  role = "3rd Year Undergraduate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Indian Institute of Technology Kanpur", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "vpratap@iitk.ac.in"
+  address = "B-107, HALL-12, IIT Kanpur, KAnpur, 208016, India"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+91-8764312115"
+  skype = "nishuvaibhav181997@gmail.com"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
